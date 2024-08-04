@@ -1,6 +1,6 @@
 # Style-Bert-VITS2
 
-**[お願いとデフォルトモデルの利用規約](/docs/TERMS_OF_USE.md)이용 시에는 반드시 부탁과 기본 모델 이용 약관을 읽어주시기 바랍니다.**
+**이용 시에는 반드시 [부탁과 기본 모델 이용 약관](/docs/TERMS_OF_USE.md)을 읽어주시기 바랍니다.**
 
 Bert-VITS2 with more controllable voice styles.
 
@@ -8,19 +8,19 @@ https://github.com/litagin02/Style-Bert-VITS2/assets/139731664/e853f9a2-db4a-420
 
 You can install via `pip install style-bert-vits2` (inference only), see [library.ipynb](/library.ipynb) for example usage.
 
-- **解説チュートリアル動画** [YouTube](https://youtu.be/aTUSzgDl1iY)　[ニコニコ動画](https://www.nicovideo.jp/watch/sm43391524)
+- **해설 튜토리얼 비디오** [YouTube](https://youtu.be/aTUSzgDl1iY) [니코니코 동화](https://www.nicovideo.jp/watch/sm43391524)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/litagin02/Style-Bert-VITS2/blob/master/colab.ipynb)
-- [**よくある質問** (FAQ)](/docs/FAQ.md)
-- [🤗 オンラインデモはこちらから](https://huggingface.co/spaces/litagin/Style-Bert-VITS2-Editor-Demo)
-- [Zennの解説記事](https://zenn.dev/litagin/articles/034819a5256ff4)
+- [**자주 묻는 질문** (FAQ)](/docs/FAQ.md)
+- [🤗 온라인 데모는 여기서 확인하세요](https://huggingface.co/spaces/litagin/Style-Bert-VITS2-Editor-Demo)
+- [Zenn의 해설 기사](https://zenn.dev/litagin/articles/034819a5256ff4)
 
-- [**リリースページ**](https://github.com/litagin02/Style-Bert-VITS2/releases/)、[更新履歴](/docs/CHANGELOG.md)
-  - 2024-06-16: Ver 2.6.0 (モデルの差分マージ・加重マージ・ヌルモデルマージの追加、使い道については[この記事](https://zenn.dev/litagin/articles/1297b1dc7bdc79)参照)
-  - 2024-06-14: Ver 2.5.1 (利用規約をお願いへ変更したのみ)
-  - 2024-06-02: Ver 2.5.0 (**[利用規約](/docs/TERMS_OF_USE.md)の追加**、フォルダ分けからのスタイル生成、小春音アミ・あみたろモデルの追加、インストールの高速化等)
-  - 2024-03-16: ver 2.4.1 (**batファイルによるインストール方法の変更**)
-  - 2024-03-15: ver 2.4.0 (大規模リファクタリングや種々の改良、ライブラリ化)
-  - 2024-02-26: ver 2.3 (辞書機能とエディター機能)
+- [**릴리즈 페이지**](https://github.com/litagin02/Style-Bert-VITS2/releases/), [업데이트 내역](/docs/CHANGELOG.md)
+  - 2024-06-16: Ver 2.6.0 (모델의 차분 병합, 가중 병합, 널 모델 병합 추가, 사용 방법에 대해서는 [이 기사](https://zenn.dev/litagin/articles/1297b1dc7bdc79) 참조)
+  - 2024-06-14: Ver 2.5.1 (이용 약관을 '부탁'으로 변경한 것만)
+  - 2024-06-02: Ver 2.5.0 (**[이용 약관](/docs/TERMS_OF_USE.md) 추가**, 폴더 분류를 통한 스타일 생성, Koharune Ami 및 Amitaro 모델 추가, 설치 속도 향상 등)
+  - 2024-03-16: ver 2.4.1 (**bat 파일을 통한 설치 방법 변경**)
+  - 2024-03-15: ver 2.4.0 (대규모 리팩토링 및 다양한 개선, 라이브러리화)
+  - 2024-02-26: ver 2.3 (사전 기능 및 에디터 기능 추가)
   - 2024-02-09: ver 2.2
   - 2024-02-07: ver 2.1
   - 2024-02-03: ver 2.0 (JP-Extra)
